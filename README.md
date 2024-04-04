@@ -14,11 +14,6 @@ Fernando Adrián Fuentes Martínez.
 ### IMAGES
 ![Imagen de prueba que muestra una topologia de red utilizada para el reto de una clase](prueba.png)
 
-### LISTS
-- [x] Turn on GitHub Pages
-- [x] Outline my portfolio
-- [x] Introduce myself to the world
-
 
 ### Code examples 
 ```python
@@ -28,6 +23,11 @@ sum = num1 + num 2
 print(sum)
 ```
 
+
+### LISTS
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
 
 ## References
