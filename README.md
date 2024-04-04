@@ -14,6 +14,17 @@ Fernando Adrián Fuentes Martínez.
 ### IMAGES
 ![Imagen de prueba que muestra una topologia de red utilizada para el reto de una clase](prueba.png)
 
+
+### Code examples 
+```python
+num1 = 35
+num2 = 65
+sum = num1 + num 2
+print(sum)
+```
+
+
+
 ## References
 
 
