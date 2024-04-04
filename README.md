@@ -12,6 +12,7 @@ Fernando Adrián Fuentes Martínez.
 ### README.md
 ### hello_world.py
 ### IMAGES
+![Imagen de prueba que muestra una topologia de red utilizada para el reto de una clase](prueba.png)
 
 ## References
 
