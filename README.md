@@ -41,3 +41,6 @@ print(sum)
 
 
 ![Live Metal Band](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpXu5j6FTJokjlFMduo3pVdFkyAOtvLsxUA&s)
+
+
+![Imagen de prueba 2](https://img.freepik.com/fotos-premium/paisaje-montanoso-nevado-lago-montanas-al-fondo_860215-4.jpg)
